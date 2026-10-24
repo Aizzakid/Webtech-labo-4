@@ -1,0 +1,16 @@
+span.term{
+    background-color: lightgoldenrodyellow;
+    padding: 4px;
+    font-weight: bold;
+    display: inline-block;
+    box-sizing: border-box;
+}
+.kaart{
+    border: 1px solid #cccccc;
+    padding: 1rem ;
+    margin: 1rem;
+    margin-bottom: 1rem;
+    display: inline-block;
+    width: 40%;
+    box-sizing: border-box;
+}

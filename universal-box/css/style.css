@@ -1,0 +1,17 @@
+*:not(article){
+    border: solid 1px black;
+}
+body{
+    display: grid;
+}
+main{width: 62%;}
+nav{
+    width: 50%;
+}
+body article{
+    border: 1px dotted red;
+    margin-right: 25rem;
+}
+aside{
+    width: 38%;
+}
